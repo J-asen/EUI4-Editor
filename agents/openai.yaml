@@ -1,4 +1,4 @@
-﻿interface:
+interface:
   display_name: "EUI4 Template Editor"
   short_description: "Create and revise EUI4 page template introductions."
   default_prompt: "Use $eui4-template-editor to create or revise an EUI4 scenario into a user-facing Markdown page template introduction."

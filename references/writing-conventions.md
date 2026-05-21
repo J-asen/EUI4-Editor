@@ -1,4 +1,4 @@
-﻿# Writing Conventions
+# Writing Conventions
 
 ## Standard Document Shape
 

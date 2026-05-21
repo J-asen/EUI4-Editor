@@ -1,4 +1,4 @@
-﻿---
+---
 name: eui4-template-editor
 description: Create and revise EUI4 user-facing Markdown page template introductions from internal scenario rules and screenshot assets. Use when Codex is asked to rewrite EUI4 scenarios, v0.0.7 page templates, scenario design rules, or xx-design.md files into readable product/design/business documentation with versioned Markdown files, local image references, Ant Design-like left-text/right-image layout, and removal of internal AI/D2D/D2C/checklist/output-contract content.
 ---
